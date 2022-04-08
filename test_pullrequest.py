@@ -1,5 +1,5 @@
 def person():
-    return('text')
+    return('text for test')
 
 p = person()
 print(p)
